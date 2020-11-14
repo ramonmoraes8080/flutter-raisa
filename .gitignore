@@ -39,3 +39,8 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+
+# Hover
+go/build
+go/.last_goflutter_check
+go/.last_go-flutter_check
